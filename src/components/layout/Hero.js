@@ -4,7 +4,7 @@ import Right from '../icons/Right'
 
 const Hero = () => {
     return (
-        <section className='hero'>
+        <section className='hero mt-4'>
            
              {/* text */}
              <div className='py-12'>
