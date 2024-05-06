@@ -16,7 +16,7 @@ const Hero = () => {
                   Pizza
                 </span>
                 </h1>
-                <p className='text-gray-500 my-6'>Pizza is the missing that makes every day complete, a simple yet delicious joy in life.</p>
+                <p className='text-gray-500 my-6'>Pizza is the missing piece that makes every day complete, a simple yet delicious joy in life.</p>
                 <div className='flex gap-4 items-center'>
                     <button className='px-6 py-2 bg-primary text-white rounded-full flex gap-2'>
                         Order Now
